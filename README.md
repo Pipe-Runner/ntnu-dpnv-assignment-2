@@ -1,6 +1,6 @@
 # NTNU Data Processing & Visualisation - [ Assignment 2 ]
 ## Deployment 📺
-The report is published online at: https://pipe-runner.github.io/ntnu-dpnv-assignment-2/
+The report is published online at: https://pipe-runner.github.io/ntnu-dpnv-assignment-2/  
 The Github repository for the code is available at: https://github.com/Pipe-Runner/ntnu-dpnv-assignment-2
 ## Structure 📦
 The project structure is as follows:  
